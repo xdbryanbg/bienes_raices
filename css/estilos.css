@@ -82,7 +82,7 @@ margin-top: 1rem;
     padding: 1rem 0 3rem 0;
 }
 .site-header.inicio {
-/*background-image: url(../img/header.jpg);*/
+background-image: url(../img/header.jpg);
 background-position: center center; 
 background-size: cover;
 height: 100vh;
